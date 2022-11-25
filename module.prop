@@ -1,0 +1,10 @@
+id=WifiOnly
+name=Wifi Only Mode
+version=1.0.0
+versionCode=1
+author=xyngg 
+
+description=Disables cell radio hence make your phone into a small tablet
+support=
+
+updateJson=
