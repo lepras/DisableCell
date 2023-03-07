@@ -1,3 +1,5 @@
+**currently bootloops the device**, just airplane mode with wifi on kind works though.
+
 # Disable Cell
 
 * Removes unnecessary apps (Messaging.apk, Dialer.apk, TelephonyProvider.apk, Mms.apk)
